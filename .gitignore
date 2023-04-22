@@ -1,0 +1,7 @@
+/*
+!.gitignore
+
+![Aa]ssets/
+[Aa]ssets/*
+![Aa]ssets/[Ss]cripts/
+*.meta
